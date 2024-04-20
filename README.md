@@ -1,4 +1,4 @@
 소개글
 
-![7756](https://github.com/yeounhyeong/salad/assets/147398304/b2372443-8492-4849-8c4d-75167cc82e0e){: width="100" height="100"}
+![image](https://user-images.githubusercontent.com/42318591/83347976-dd69a700-a363-11ea-8e3f-4ca56ce20a87.png){: width="20%" height="20%"}
 
